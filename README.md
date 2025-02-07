@@ -17,7 +17,7 @@ This project utilizes the published data to create an interactive HTML map. The 
 + Classification of the most abundant minerals
 + Sample IDs
 + The three most abundant minerals and their classifications
-+ A pie chart showing the proportion of the main anions: carbonate, sulfate, and chloride.
++ A pie chart showing the proportion of the main anions of the saline crust: carbonate, sulfate, and chloride.
 
 The dataset includes values below the detection limit and missing carbonate data for certain samples, particularly from the Las Parinas and Pajonales salt flats, which were replaced with 0 to facilitate calculations. This approach, while necessary, introduces artifacts that must be accounted for in subsequent analysis.
 
