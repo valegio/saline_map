@@ -2,9 +2,9 @@
 
 This project is the final assignment for the **Python Foundation for Spatial Analysis** course offered by **Spatial Thoughts** <https://spatialthoughts.com/> and guided by Ujaval Gandhi and Vigna Purohit.
 
-The National Geology and Mining Service (SERNAGEOMIN) of Chile maintains a repository of publicly accessible databases on their website: <https://repositorio.sernageomin.cl/home>
+The National Geology and Mining Service (Sernageomin) of Chile maintains a repository of publicly accessible databases on their website: <https://repositorio.sernageomin.cl/home>
 
-In 2023, SERNAGEOMIN released a database on saline systems titled "Composición química y mineralogía de los salares de Pajonales, La Isla, Las Parinas y Aguilar, regiones de Antofagasta y Atacama, Chile" (Chemical Composition and Mineralogy of the Salt Flats of Pajonales, La Isla, Las Parinas, and Aguilar, Regions of Antofagasta and Atacama, Chile). This database contains detailed information on four saline systems.
+In 2023, Sernageomin released a database on saline systems titled "Composición química y mineralogía de los salares de Pajonales, La Isla, Las Parinas y Aguilar, regiones de Antofagasta y Atacama, Chile" (Chemical Composition and Mineralogy of the Salt Flats of Pajonales, La Isla, Las Parinas, and Aguilar, Regions of Antofagasta and Atacama, Chile). This database contains detailed information on four saline systems.
 
 The data is provided in XLSX format and is organized into five sheets:
 + Crust Mineralogy
